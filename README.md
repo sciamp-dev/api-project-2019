@@ -55,4 +55,5 @@ The output must contain the list of the relations, giving for each one the entit
 - The command *end* doesn't print an output
 - Names are ordered by ASCII representation
 
-## TODO
+### Use
+./api-project-2019 < path_to_input_file
