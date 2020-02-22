@@ -1,4 +1,4 @@
-# Final test for the course "Algorithms and Principles of CS"
+# Project of "Algorithms and Principles of CS"
 
 ## Problem
 Social network like structure. There are named entities and named relations. Relations between entities are mono directional.
